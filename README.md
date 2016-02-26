@@ -1,3 +1,3 @@
 # SAYLANI MASS TRAINING PROGRAM #
 ## FIRST CHAPTER ##
-### ** * GIT * ** ###
+### ** _GIT_ ** ###
